@@ -1,0 +1,25 @@
+{
+  "name": "devops-api-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldounifor/devops-api-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldounifor/devops-api-example/issues"
+  },
+  "homepage": "https://github.com/ronaldounifor/devops-api-example#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}
