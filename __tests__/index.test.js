@@ -1,5 +1,5 @@
 const request = require('supertest');
-const app = require('../index');
+const app = require('../src/index');
 
 describe('Testando a API de usuários', () => {
   let createdUserId;
